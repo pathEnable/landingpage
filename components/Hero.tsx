@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function Hero() {
   return (
-    <main className="relative overflow-hidden rounded-2xl border border-white/10 bg-slate-950/80">
+    <main className="relative overflow-hidden rounded-2xl  bg-slate-950/80">
       <Image
         src="/image.png"
         alt="Content moderation dashboard background"
